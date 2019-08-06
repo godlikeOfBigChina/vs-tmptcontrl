@@ -8,7 +8,7 @@ namespace TmpCtrl
 {
     public static class Data
     {
-
+        //test git
 
         //interval is one hour
         public static float[] time =new float[]{0,  72, 96, 132, 180, 220};
